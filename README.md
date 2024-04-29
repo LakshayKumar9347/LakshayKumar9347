@@ -2,7 +2,7 @@
 MERN Stack Developer and Multifaceted Musician 🎼 Combining Technical Expertise with Creative Expression
 
 ## 🚀 About ME
-![App Screenshot](https://github.com/LakshayKumar9347/FilesServing/blob/main/profle-image.png)
+![App Screenshot](https://github.com/LakshayKumar9347/File-Vault-Base/blob/main/profle-image.png)
 
 ## 💞️ Skills
 MongoDB, ExpressJs, ReactJs , NodeJS...
